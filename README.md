@@ -1,5 +1,5 @@
 <div align="center">
- ## <a name="features">Web App's Features</a>
+ <a name="features">The Web App's Features</a>
 
  **Responsive Design**: Seamless experience across different devices.
 
@@ -10,3 +10,4 @@
  **Personalized Financial Insights**: Gives detailed financial insights based on user-specific financial data.
 
  </div>
+
